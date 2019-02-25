@@ -1,5 +1,5 @@
 <template>
-  <section id="xx-page">
+  <section class="page xx-page">
   </section>
 </template>
 <script>
